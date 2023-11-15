@@ -5,22 +5,11 @@
 - <b>Endpoint Detection and Response with LimaCharlie</b>
   - [Project Description](https://github.com/xxxxxxxxxx)
 
--  <b>Project Heading</b>
+
+    <b>Project Heading</b>
   - [Project Description](https://github.com/xxxxxxxxxx)
 
--  <b>Project Heading</b>
-  - [Project Description](https://github.com/xxxxxxxxxx)
-  - [Project Description](https://github.com/xxxxxxxxxx)
-  - [Project Description](https://github.com/xxxxxxxxxx)
-  - [Project Description](https://github.com/xxxxxxxxxx)
 
--  <b>Project Heading</b>
-  - [Project Description](https://github.com/xxxxxxxxxx)
-  - [Project Description](https://github.com/xxxxxxxxxx)
-  - [Project Description](https://github.com/xxxxxxxxxx)
-
--  <b>Project Heading</b>
-  - [Project Description](https://github.com/xxxxxxxxxx)
 
 
 <h2> 🤳 Connect with me:</h2>
