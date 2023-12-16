@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Endpoint Detection and Response Lab](xxxxx)
+  - [Endpoint Detection and Response Lab](https://github.com/4cysec/Endpoint-Detection-and-Response)
 
 
 <h2> 🤳 Connect with me:</h2>
