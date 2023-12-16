@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Endpoint Detection and Response with LimaCharlie</b>
-  - [Project Description](https://github.com/xxxxxxxxxx)
+  - [Project Description]([https://github.com/xxxxxxxxxx](https://github.com/4cysec/Endpoint-Detection-and-Response/blob/main/README.md))
 
 
     <b>Project Heading</b>
