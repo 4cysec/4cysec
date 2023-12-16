@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [<b>Endpoint Detection and Response with LimaCharlie</b>]([[https://github.com/xxxxxxxxxx]
+  - 
 
 
 <h2> 🤳 Connect with me:</h2>
