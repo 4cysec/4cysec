@@ -1,5 +1,7 @@
 <h1><br/><a href="https://www.linkedin.com/in/adf83/">Cybersecurity Professional</a></h1>
 
+<script src="https://tryhackme.com/badge/2218786"></script>
+
 <h2>👨🏿‍💻 Cybersecurity Projects:</h2>
 
   - [Endpoint Detection and Response Lab](https://github.com/4cysec/Endpoint-Detection-and-Response)
