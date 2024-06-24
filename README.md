@@ -7,7 +7,7 @@
   - [Active Directory Lab](https://github.com/4cysec/Active-Directory-Lab/tree/main)
 
 
-<script src="https://tryhackme.com/badge/2218786"></script>
+<img src="https://tryhackme.com/badge/2218786"></img>
 
 
 
