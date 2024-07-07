@@ -1,6 +1,6 @@
 <h1><br/><a href="https://www.linkedin.com/in/adf83/">Cybersecurity Professional</a></h1>
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/cyberK.png" alt="TryHackMe">
+<img src="https://tryhackme.com/badge/2218786" alt="TryHackMe">
 
 
 <h2>👨🏿‍💻 Cybersecurity Projects:</h2>
