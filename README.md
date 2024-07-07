@@ -1,10 +1,7 @@
 <h1><br/><a href="https://www.linkedin.com/in/adf83/">Cybersecurity Professional</a></h1>
 
-![image](https://github.com/4cysec/4cysec/assets/149924544/2769f2b4-fdf7-458d-9b7f-9b2fb67d69ea)
 
-
-
-<h2>👨🏿‍💻 Cybersecurity Projects:</h2>
+<h2>👨🏿‍💻 Home Lab Projects:</h2>
 
   - [Endpoint Detection and Response Lab](https://github.com/4cysec/Endpoint-Detection-and-Response)
 
