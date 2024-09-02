@@ -7,7 +7,7 @@
 
   - [Active Directory Lab](https://github.com/4cysec/Active-Directory-Lab/tree/main)
 
-  - [Vulnerability Management](https://github.com/4cysec/Vulnerability-Management-Lab)
+  - [Vulnerability Management Lab](https://github.com/4cysec/Vulnerability-Management-Lab)
 
 
 <h2> 🤳🏿 Connect with me:</h2>
