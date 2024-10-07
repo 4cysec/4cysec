@@ -9,7 +9,7 @@
 
   - [Vulnerability Management Lab](https://github.com/4cysec/Vulnerability-Management-Lab)
 
-  - [Microsoft Azure Lab ]()
+  - [Microsoft Azure Lab(coming soon) ]()
 
 
 <h2> 🤳🏿 Connect with me:</h2>
