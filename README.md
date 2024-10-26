@@ -9,7 +9,7 @@
 
   - [Vulnerability Management Lab](https://github.com/4cysec/Vulnerability-Management-Lab)
 
-  - [Microsoft Azure Lab(coming soon) ]()
+  - [Creating Virtual Machines in Azure](https://github.com/4cysec/Virtual-Machines-In-Azure/tree/main)
 
 
 <h2> 🤳🏿 Connect with me:</h2>
